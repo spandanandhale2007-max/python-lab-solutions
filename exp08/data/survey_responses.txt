@@ -1,0 +1,14 @@
+9 | Finding a free ICU bed used to take four phone calls. Now it is one screen.
+8 | Useful, but the data looked stale once during the evening rush.
+10 | Exactly what a district hospital needs. Shared it with two colleagues.
+6 | Works, though the mobile layout squeezes the ward names.
+7 | Good. Please add a filter for paediatric beds.
+3 | It showed a bed as free that was already taken. Lost trust after that.
+9 | The refresh is fast and the colour coding is clear.
+10 | Our front desk now answers bed queries without calling the wards.
+5 | Fine for one hospital, but we need a multi-hospital view.
+8 | Solid. An SMS alert when ICU capacity drops below 10% would help.
+2 | Could not log in for two days last week.
+9 | Clean interface, no training needed for the staff.
+7 | Decent, add a printable daily occupancy report.
+10 | Best improvement to our workflow this year.

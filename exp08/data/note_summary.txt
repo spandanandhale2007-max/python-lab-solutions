@@ -1,0 +1,5 @@
+Total notes: 11
+Period: 2026-11-10 to 2026-11-24
+First two entries:
+2026-11-10 #literature Read Kumar et al. on hospital bed allocation; queueing model, not ML.
+2026-11-11 #dataset Found the open AIIMS bed occupancy dataset, 14 months, hourly granularity.

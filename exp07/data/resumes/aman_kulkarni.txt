@@ -1,0 +1,9 @@
+Aman Kulkarni
+Contact: aman_k99@sub.domain.co.in
+Mobile 020-2555 1234
+github.com/amank99
+
+EDUCATION
+Savitribai Phule Pune University, MCA, 2022-2024, CGPA 7.9
+
+Tech Stack: Go, Python, Docker, Kubernetes, PostgreSQL

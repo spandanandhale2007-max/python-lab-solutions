@@ -1,0 +1,15 @@
+REG-001 | Spandan Andhale, SY CSE, spandan.andhale@example.com, veg meal
+REG-002 | Riya Sharma riya93@mitwpu.edu.in needs a parking pass
+REG-003 | Aman Kulkarni aman_k99@gmial.com (typo in domain?)
+REG-004 | Neha Deshmukh - neha.deshmukh@gmail.com - attending both days
+REG-005 | Omkar Patil omkar.patil@ (incomplete)
+REG-006 | Sana Shaikh | sana.shaikh@zoho.in | vegan meal
+REG-007 | Rohit Jadhav rohitjadhav.gmail.com (forgot the @)
+REG-008 | Pooja Nair pooja..nair@example.com
+REG-009 | Kiran Rao kiran.rao@diagnostics.example.net
+REG-010 | Tanvi Gokhale TANVI.GOKHALE@MITWPU.EDU.IN
+REG-011 | Harsh Mehta harsh@mehta@example.com
+REG-012 | Walk-in registration, contact number only: 90112-23344
+REG-013 | Spandan Andhale spandan.andhale@example.com duplicate entry
+REG-014 | Dr. Kavita Rao kavita.rao@healthblog.example.org, speaker
+REG-015 | Sameer Khan sameer@short.c

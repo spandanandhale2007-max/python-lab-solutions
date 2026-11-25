@@ -1,0 +1,11 @@
+2026-11-10 #literature Read Kumar et al. on hospital bed allocation; queueing model, not ML.
+2026-11-11 #dataset Found the open AIIMS bed occupancy dataset, 14 months, hourly granularity.
+2026-11-12 #method Tried a simple moving average baseline; MAE 4.2 beds, surprisingly hard to beat.
+2026-11-13 #literature Chen 2024 argues occupancy is seasonal at the week level, matches our data.
+2026-11-14 #method Added day-of-week features; MAE drops to 3.1 beds.
+2026-11-17 #dataset Cleaned 312 duplicate rows caused by the double-logging bug.
+2026-11-18 #meeting Coordinator wants a demo with real screenshots by 30 November.
+2026-11-19 #method Tried gradient boosting; MAE 2.6 but the model is hard to explain in a viva.
+2026-11-20 #writing Drafted the methodology section, 900 words.
+2026-11-21 #todo Need an ablation table and one clear figure of weekly seasonality.
+2026-11-24 #writing Rewrote the introduction after feedback; tightened the problem statement.

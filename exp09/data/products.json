@@ -1,0 +1,169 @@
+{
+  "summary": {
+    "totalProducts": 12,
+    "exported": 12,
+    "inStock": 10,
+    "outOfStock": 2,
+    "lowStock": 4,
+    "categories": [
+      "Diagnostics",
+      "General",
+      "Mobility",
+      "Protective",
+      "Respiratory"
+    ],
+    "priceRange": {
+      "min": 299.0,
+      "max": 38999.0
+    },
+    "averagePrice": 4745.0,
+    "inventoryValue": 491438.0,
+    "averageRating": 4.31
+  },
+  "products": [
+    {
+      "productId": "P-1001",
+      "name": "Digital Thermometer",
+      "category": "Diagnostics",
+      "price": 349.0,
+      "priceDisplay": "Rs.349.00",
+      "stock": 120,
+      "inStock": true,
+      "lowStock": false,
+      "rating": 4.4,
+      "inventoryValue": 41880.0
+    },
+    {
+      "productId": "P-1002",
+      "name": "Pulse Oximeter",
+      "category": "Diagnostics",
+      "price": 1299.0,
+      "priceDisplay": "Rs.1,299.00",
+      "stock": 45,
+      "inStock": true,
+      "lowStock": false,
+      "rating": 4.6,
+      "inventoryValue": 58455.0
+    },
+    {
+      "productId": "P-1003",
+      "name": "BP Monitor",
+      "category": "Diagnostics",
+      "price": 2199.0,
+      "priceDisplay": "Rs.2,199.00",
+      "stock": 8,
+      "inStock": true,
+      "lowStock": true,
+      "rating": 4.3,
+      "inventoryValue": 17592.0
+    },
+    {
+      "productId": "P-1004",
+      "name": "N95 Mask (pack of 10)",
+      "category": "Protective",
+      "price": 499.0,
+      "priceDisplay": "Rs.499.00",
+      "stock": 0,
+      "inStock": false,
+      "lowStock": false,
+      "rating": 4.1,
+      "inventoryValue": 0.0
+    },
+    {
+      "productId": "P-1005",
+      "name": "Surgical Gloves (box)",
+      "category": "Protective",
+      "price": 650.0,
+      "priceDisplay": "Rs.650.00",
+      "stock": 210,
+      "inStock": true,
+      "lowStock": false,
+      "rating": 4.5,
+      "inventoryValue": 136500.0
+    },
+    {
+      "productId": "P-1006",
+      "name": "Nebulizer",
+      "category": "Respiratory",
+      "price": 1850.0,
+      "priceDisplay": "Rs.1,850.00",
+      "stock": 6,
+      "inStock": true,
+      "lowStock": true,
+      "rating": 4.2,
+      "inventoryValue": 11100.0
+    },
+    {
+      "productId": "P-1007",
+      "name": "Wheelchair Foldable",
+      "category": "Mobility",
+      "price": 7499.0,
+      "priceDisplay": "Rs.7,499.00",
+      "stock": 3,
+      "inStock": true,
+      "lowStock": true,
+      "rating": 4.0,
+      "inventoryValue": 22497.0
+    },
+    {
+      "productId": "P-1008",
+      "name": "Walking Stick",
+      "category": "Mobility",
+      "price": 899.0,
+      "priceDisplay": "Rs.899.00",
+      "stock": 64,
+      "inStock": true,
+      "lowStock": false,
+      "rating": 3.9,
+      "inventoryValue": 57536.0
+    },
+    {
+      "productId": "P-1009",
+      "name": "Glucometer Kit",
+      "category": "Diagnostics",
+      "price": 1099.0,
+      "priceDisplay": "Rs.1,099.00",
+      "stock": 0,
+      "inStock": false,
+      "lowStock": false,
+      "rating": 4.4,
+      "inventoryValue": 0.0
+    },
+    {
+      "productId": "P-1010",
+      "name": "First Aid Box",
+      "category": "General",
+      "price": 1299.0,
+      "priceDisplay": "Rs.1,299.00",
+      "stock": 32,
+      "inStock": true,
+      "lowStock": false,
+      "rating": 4.7,
+      "inventoryValue": 41568.0
+    },
+    {
+      "productId": "P-1011",
+      "name": "Hot Water Bag",
+      "category": "General",
+      "price": 299.0,
+      "priceDisplay": "Rs.299.00",
+      "stock": 88,
+      "inStock": true,
+      "lowStock": false,
+      "rating": 3.8,
+      "inventoryValue": 26312.0
+    },
+    {
+      "productId": "P-1012",
+      "name": "Oxygen Concentrator",
+      "category": "Respiratory",
+      "price": 38999.0,
+      "priceDisplay": "Rs.38,999.00",
+      "stock": 2,
+      "inStock": true,
+      "lowStock": true,
+      "rating": 4.8,
+      "inventoryValue": 77998.0
+    }
+  ]
+}

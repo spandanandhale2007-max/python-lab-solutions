@@ -1,0 +1,10 @@
+The Python lab sessions were excellent, the examples were very clear.
+Lectures move too fast for a first-year subject, please slow down.
+Loved the hospital management case study, it made OOP concepts click.
+The assignment deadlines overlap with other subjects, that is difficult.
+Good use of real datasets in the pandas unit, very useful.
+The projector in Lab 4 keeps failing, it wastes the first ten minutes.
+More practice questions on dynamic programming would be helpful.
+Teaching is great but the textbook is confusing in places.
+The viva format is fair and the feedback afterwards is clear.
+Please upload the slides before class, not after.

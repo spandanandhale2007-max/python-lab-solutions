@@ -1,0 +1,33 @@
+Application ID: APP-1001
+Name: Spandan Andhale
+Position: Python Developer Intern
+Contact: spandan.andhale@example.com | +91 90112 23344
+Cover note: I have built a hospital management app in React and Python.
+
+Application ID: APP-1002
+Name: Riya Sharma
+Position: Data Analyst
+Reach me at riya.sharma93@mitwpu.edu.in or on LinkedIn.
+
+Application ID: APP-1003
+Name: Aman Kulkarni
+Position: Backend Engineer
+Email: aman_k99@sub.domain.co.in
+Alternate: amank.work+jobs@gmail.com
+
+Application ID: APP-1004
+Name: Neha Deshmukh
+Position: QA Engineer
+Phone only, no email provided. Call 020-2555-1234.
+
+Application ID: APP-1005
+Name: Omkar Patil
+Position: Python Developer Intern
+Mail: OMKAR.PATIL@Example.COM (please use this one)
+Referred by spandan.andhale@example.com
+
+Application ID: APP-1006
+Name: Sana Shaikh
+Position: DevOps Trainee
+Contact: sana [at] shaikh [dot] com   <- obfuscated, not a valid address
+Backup: sana.shaikh@zoho.in

@@ -1,0 +1,9 @@
+employee_id,name,department,email,designation,joined
+EMP-1001,Spandan Andhale,Engineering,spandan.andhale@company.in,Software Intern,2026-06-01
+EMP-1002,Riya Sharma,Design,riya.sharma@company.in,UX Designer,2025-07-14
+EMP-1003,Aman Kulkarni,Engineering,aman.kulkarni@company.in,Backend Engineer,2024-01-08
+EMP-1004,Neha Deshmukh,Quality,neha.deshmukh@company.in,QA Engineer,2024-09-23
+EMP-1005,Omkar Patil,Engineering,omkar.patil@company.in,DevOps Engineer,2023-03-15
+EMP-1006,Sana Shaikh,Operations,sana.shaikh@company.in,Operations Lead,2022-11-02
+EMP-1007,Kavita Rao,Research,kavita.rao@company.in,Principal Scientist,2021-05-19
+EMP-1008,Harsh Mehta,Design,harsh.mehta@company.in,Visual Designer,2025-02-10

@@ -1,0 +1,6 @@
+id	as_typed	problem	suggestion
+REG-005	(none)	no email in the entry	
+REG-007	(none)	no email in the entry	
+REG-011	harsh@mehta@example.com	more than one @	
+REG-012	(none)	no email in the entry	
+REG-015	sameer@short.c	top level domain too short	

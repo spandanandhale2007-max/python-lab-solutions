@@ -1,0 +1,12 @@
+2026-11-24 00:00:12 INFO  nginx started, listening on :443
+2026-11-24 00:04:51 INFO  GET /api/beds 200 in 42ms
+2026-11-24 00:17:03 WARN  slow query on appointments table, 1840ms
+2026-11-24 01:02:44 INFO  GET /api/doctors 200 in 28ms
+2026-11-24 01:33:19 ERROR failed to reach supabase: connection reset
+2026-11-24 01:33:25 INFO  retry succeeded after 1 attempt
+2026-11-24 02:15:08 INFO  nightly backup started
+2026-11-24 02:41:55 INFO  nightly backup finished, 184 MB
+2026-11-24 06:00:01 INFO  cron: appointment reminders dispatched
+2026-11-24 09:12:37 ERROR 500 on POST /api/appointments, payload too large
+2026-11-24 09:12:40 WARN  rate limit hit for 49.36.x.x
+2026-11-24 14:48:22 INFO  GET /api/medications 200 in 31ms

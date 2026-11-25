@@ -1,0 +1,26 @@
+# grade distribution list
+
+Group 1: MediVerse: Hospital Services Portal
+  spandan.andhale@mitwpu.edu.in
+  riya.sharma@mitwpu.edu.in
+  aman.kulkarni@mitwpu.edu.in
+
+Group 2: Smart Attendance using Face Recognition
+  neha.deshmukh@mitwpu.edu.in
+  omkar.patil@mitwpu.edu.in
+  sana.shaikh99@gmail.com
+
+Group 3: Crop Yield Prediction
+  rohit.jadhav@mitwpu.edu.in
+  pooja.nair@mitwpu.edu.in
+
+Group 4: Library Management System
+  tanvi.gokhale@mitwpu.edu.in
+  harsh.mehta@mitwpu.edu.in
+  spandan.andhale@mitwpu.edu.in
+
+# guides
+  s.joshi@mitwpu.edu.in
+
+# all unique student addresses (10)
+spandan.andhale@mitwpu.edu.in; riya.sharma@mitwpu.edu.in; aman.kulkarni@mitwpu.edu.in; neha.deshmukh@mitwpu.edu.in; omkar.patil@mitwpu.edu.in; sana.shaikh99@gmail.com; rohit.jadhav@mitwpu.edu.in; pooja.nair@mitwpu.edu.in; tanvi.gokhale@mitwpu.edu.in; harsh.mehta@mitwpu.edu.in

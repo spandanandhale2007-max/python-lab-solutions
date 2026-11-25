@@ -1,0 +1,11 @@
+student_id,name,grade,email,section,attendance_percent
+STU-2301,Spandan Andhale,SY-CSE,spandan.andhale@school.edu.in,A,92.5
+STU-2302,Riya Sharma,SY-CSE,riya.sharma@school.edu.in,A,88.0
+STU-2303,Aman Kulkarni,SY-CSE,aman.kulkarni@school.edu.in,B,74.5
+STU-2304,Neha Deshmukh,TY-CSE,neha.deshmukh@school.edu.in,A,96.0
+STU-2305,Omkar Patil,TY-CSE,omkar.patil@school.edu.in,B,61.5
+STU-2306,Sana Shaikh,FY-CSE,sana.shaikh@school.edu.in,A,85.0
+STU-2307,Rohit Jadhav,FY-CSE,rohit.jadhav@school.edu.in,B,79.0
+STU-2308,Pooja Nair,SY-CSE,pooja.nair@school.edu.in,B,58.0
+STU-2309,Kiran Rao,TY-CSE,kiran.rao@school.edu.in,A,90.5
+STU-2310,Tanvi Gokhale,FY-CSE,tanvi.gokhale@school.edu.in,A,99.0

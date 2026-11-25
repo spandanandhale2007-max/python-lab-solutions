@@ -1,0 +1,15 @@
+# synthetic dump used for a classroom exercise - no real accounts
+id,email,password_hash,last_login
+1,spandan.andhale@example.com,$2b$10$fakehashvalue001,2026-10-02
+2,riya93@mitwpu.edu.in,$2b$10$fakehashvalue002,2026-10-04
+3,AMAN_K99@sub.domain.co.in,$2b$10$fakehashvalue003,2026-09-28
+4,neha.deshmukh@gmail.com,$2b$10$fakehashvalue004,2026-10-11
+5,spandan.andhale@example.com,$2b$10$fakehashvalue005,2026-10-12
+6,omkar.patil@example.com,$2b$10$fakehashvalue006,2026-08-19
+7,corrupted-row-no-email,$2b$10$fakehashvalue007,2026-07-01
+8,sana.shaikh@zoho.in,$2b$10$fakehashvalue008,2026-10-13
+9,admin@mediverse.in,$2b$10$fakehashvalue009,2026-10-14
+10,support@mediverse.in,$2b$10$fakehashvalue010,2026-10-14
+11,Riya93@MITWPU.EDU.IN,$2b$10$fakehashvalue011,2026-10-15
+12,billing@partnerclinic.co.uk,$2b$10$fakehashvalue012,2026-06-30
+free text appended by the attacker: contact me at ransom.note@darkmail.invalid

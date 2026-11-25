@@ -1,0 +1,12 @@
+2026-11-18 09:14 [P1] TICKET-4411 spandan.andhale@example.com App crashes when I open the bed availability page. Urgent.
+2026-11-18 09:40 [P3] TICKET-4412 riya93@mitwpu.edu.in Cannot reset my password, the OTP never arrives.
+2026-11-18 10:02 [P2] TICKET-4413 no contact details given, caller rang from 020-2555-1234
+2026-11-18 10:35 [P1] TICKET-4414 aman_k99@sub.domain.co.in Double charged for the same appointment booking.
+2026-11-18 11:11 [P4] TICKET-4415 Please update my address, reach me at neha.deshmukh+support@gmail.com
+2026-11-18 12:20 [P2] TICKET-4416 spandan.andhale@example.com Follow up on TICKET-4411, still broken.
+2026-11-19 08:05 [P3] TICKET-4417 omkar.patil@example.com Requesting an invoice copy for October.
+2026-11-19 09:30 [P1] TICKET-4418 sana.shaikh@zoho.in Doctor list shows the wrong department.
+2026-11-19 10:00 [P4] TICKET-4419 feedback at mediverse dot in (obfuscated, unusable)
+2026-11-19 11:45 [P2] TICKET-4420 riya93@mitwpu.edu.in Password reset worked, closing the ticket. Thanks!
+2026-11-19 14:10 [P1] TICKET-4421 escalation@partnerclinic.co.uk Patient records failed to sync overnight.
+2026-11-20 09:00 [P3] TICKET-4422 aman_k99@sub.domain.co.in Refund still not credited.

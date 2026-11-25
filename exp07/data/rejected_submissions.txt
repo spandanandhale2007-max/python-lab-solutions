@@ -1,0 +1,10 @@
+line 4	not.an.email.at.all	contains no @ candidate at all
+line 5	@nolocalpart.com	contains no @ candidate at all
+line 6	missing-domain@	contains no @ candidate at all
+line 7	double@@at.com	multiple @ signs
+line 8	user@nodot	domain has no dot (no TLD)
+line 9	trailing.dot@domain.	domain ends with a dot
+line 10	.leading.dot@domain.com	local part starts or ends with a dot
+line 12	too@short.c	top level domain too short
+line 19	admin@localhost	domain has no dot (no TLD)
+line 22	tel: 020-2555-1234	contains no @ candidate at all

@@ -1,0 +1,144 @@
+{
+  "summary": {
+    "totalResponses": 12,
+    "averageRating": 7.17,
+    "minRating": 2,
+    "maxRating": 10,
+    "recommendCount": 8,
+    "recommendPercent": 66.7,
+    "nps": 8.3,
+    "ratingDistribution": {
+      "2": 1,
+      "3": 1,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 2,
+      "9": 3,
+      "10": 2
+    },
+    "byCity": {
+      "Pune": 5,
+      "Mumbai": 3,
+      "Nashik": 2,
+      "Nagpur": 2
+    },
+    "byAgeGroup": {
+      "18-24": 3,
+      "25-34": 3,
+      "35-44": 3,
+      "45-54": 2,
+      "55+": 1
+    }
+  },
+  "responses": [
+    {
+      "responseId": "R001",
+      "timestamp": "2026-11-18 09:14",
+      "ageGroup": "18-24",
+      "city": "Pune",
+      "rating": 9,
+      "recommend": true,
+      "comment": "Bed availability page saves us phone calls"
+    },
+    {
+      "responseId": "R002",
+      "timestamp": "2026-11-18 10:02",
+      "ageGroup": "25-34",
+      "city": "Mumbai",
+      "rating": 8,
+      "recommend": true,
+      "comment": "Useful but the data looked stale once"
+    },
+    {
+      "responseId": "R003",
+      "timestamp": "2026-11-18 11:40",
+      "ageGroup": "35-44",
+      "city": "Nashik",
+      "rating": 10,
+      "recommend": true,
+      "comment": "Exactly what a district hospital needs"
+    },
+    {
+      "responseId": "R004",
+      "timestamp": "2026-11-19 08:21",
+      "ageGroup": "18-24",
+      "city": "Pune",
+      "rating": 6,
+      "recommend": false,
+      "comment": "Mobile layout squeezes the ward names"
+    },
+    {
+      "responseId": "R005",
+      "timestamp": "2026-11-19 09:55",
+      "ageGroup": "45-54",
+      "city": "Nagpur",
+      "rating": 7,
+      "recommend": true,
+      "comment": "Please add a paediatric bed filter"
+    },
+    {
+      "responseId": "R006",
+      "timestamp": "2026-11-19 12:30",
+      "ageGroup": "25-34",
+      "city": "Mumbai",
+      "rating": 3,
+      "recommend": false,
+      "comment": "Showed a bed as free that was taken"
+    },
+    {
+      "responseId": "R007",
+      "timestamp": "2026-11-20 10:05",
+      "ageGroup": "35-44",
+      "city": "Pune",
+      "rating": 9,
+      "recommend": true,
+      "comment": "Refresh is fast and colour coding is clear"
+    },
+    {
+      "responseId": "R008",
+      "timestamp": "2026-11-20 14:18",
+      "ageGroup": "55+",
+      "city": "Nashik",
+      "rating": 10,
+      "recommend": true,
+      "comment": "Front desk answers bed queries without calling"
+    },
+    {
+      "responseId": "R009",
+      "timestamp": "2026-11-21 09:02",
+      "ageGroup": "25-34",
+      "city": "Nagpur",
+      "rating": 5,
+      "recommend": false,
+      "comment": "Fine for one hospital we need a multi view"
+    },
+    {
+      "responseId": "R010",
+      "timestamp": "2026-11-21 16:44",
+      "ageGroup": "18-24",
+      "city": "Pune",
+      "rating": 8,
+      "recommend": true,
+      "comment": "An SMS alert on low ICU capacity would help"
+    },
+    {
+      "responseId": "R011",
+      "timestamp": "2026-11-22 11:11",
+      "ageGroup": "45-54",
+      "city": "Mumbai",
+      "rating": 2,
+      "recommend": false,
+      "comment": "Could not log in for two days"
+    },
+    {
+      "responseId": "R012",
+      "timestamp": "2026-11-22 13:27",
+      "ageGroup": "35-44",
+      "city": "Pune",
+      "rating": 9,
+      "recommend": true,
+      "comment": "Clean interface no training needed"
+    }
+  ]
+}

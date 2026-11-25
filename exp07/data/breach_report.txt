@@ -1,0 +1,20 @@
+DATA BREACH - PRELIMINARY SCAN REPORT
+source file            : leaked_data.txt
+lines scanned          : 15
+email matches          : 12
+unique accounts        : 10
+internal accounts      : 2
+external accounts      : 8
+affected domains       : 8
+
+unique accounts (pseudonymised for sharing):
+  cacb2868c4a1e085  example.com
+  cd45844e4f6b2501  mitwpu.edu.in
+  fc523cacb39cefa3  sub.domain.co.in
+  f0246f01eccf5384  gmail.com
+  3d94241d6d2e9edf  example.com
+  9ae18a7d18736e15  zoho.in
+  abf05c431d3f23f4  mediverse.in
+  34fbe294e573c230  mediverse.in
+  a7dd73c46c9e3fc8  partnerclinic.co.uk
+  2437dd7081be5b0d  darkmail.invalid

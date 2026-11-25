@@ -1,0 +1,27 @@
+# source: https://clinicpune.example.com/contact
+<a href="mailto:frontdesk@clinicpune.example.com">Front desk</a>
+Call 020-2555-1234 or write to admin@clinicpune.example.com
+Do not reply to noreply@clinicpune.example.com
+
+# source: https://medsupplies.example.in/about
+Procurement: purchase@medsupplies.example.in
+Sales head: r.mehta@medsupplies.example.in
+Careers: hr@medsupplies.example.in
+Footer: (c) 2026 MedSupplies. unsubscribe@medsupplies.example.in
+
+# source: https://healthblog.example.org/post/12
+Written by Dr. Kavita Rao - kavita.rao@healthblog.example.org
+Guest post enquiries: editor@healthblog.example.org
+Our earlier article mentioned admin@clinicpune.example.com as a partner.
+
+# source: https://diagnostics.example.net/team
+Lab head: s.iyer@diagnostics.example.net
+Reception: reception@diagnostics.example.net
+Webmaster: webmaster@diagnostics.example.net
+Press: PRESS@Diagnostics.Example.NET
+
+# source: https://pharmachain.example.co/contact
+<a href="mailto:b2b@pharmachain.example.co?subject=Bulk">B2B orders</a>
+Store locator has no email. Phone 1800-123-456.
+Franchise: franchise@pharmachain.example.co
+Duplicate listing: b2b@pharmachain.example.co

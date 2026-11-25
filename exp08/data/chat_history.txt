@@ -1,0 +1,14 @@
+[09:02] Spandan: good morning, is the bed availability API live?
+[09:03] Riya: yes, deployed last night on Netlify
+[09:03] Spandan: great, I will wire the ward panel to it today
+[09:05] Aman: careful, the ward panel state is browser-local right now
+[09:06] Spandan: right, cross-user sync is still pending
+[09:11] Riya: shall I add a loading skeleton to the doctor list?
+[09:12] Spandan: yes please, it flashes empty on slow networks
+[09:20] Aman: pushed a fix for the appointment duplicate bug
+[09:21] Spandan: thanks, I will pull and test
+[09:35] Riya: screenshots for the deck are in the shared drive
+[09:36] Spandan: perfect, the coordinator wants real screenshots not mockups
+[09:40] Aman: standup at 10?
+[09:41] Riya: works for me
+[09:41] Spandan: see you then

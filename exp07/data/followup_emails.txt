@@ -1,0 +1,8 @@
+# follow-up list generated from support_log.txt
+spandan.andhale@example.com	2	TICKET-4411,TICKET-4416
+riya93@mitwpu.edu.in	2	TICKET-4412,TICKET-4420
+aman_k99@sub.domain.co.in	2	TICKET-4414,TICKET-4422
+neha.deshmukh+support@gmail.com	1	TICKET-4415
+omkar.patil@example.com	1	TICKET-4417
+sana.shaikh@zoho.in	1	TICKET-4418
+escalation@partnerclinic.co.uk	1	TICKET-4421

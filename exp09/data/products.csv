@@ -1,0 +1,13 @@
+product_id,name,category,price,stock,rating
+P-1001,Digital Thermometer,Diagnostics,349.00,120,4.4
+P-1002,Pulse Oximeter,Diagnostics,1299.00,45,4.6
+P-1003,BP Monitor,Diagnostics,2199.00,8,4.3
+P-1004,N95 Mask (pack of 10),Protective,499.00,0,4.1
+P-1005,Surgical Gloves (box),Protective,650.00,210,4.5
+P-1006,Nebulizer,Respiratory,1850.00,6,4.2
+P-1007,Wheelchair Foldable,Mobility,7499.00,3,4.0
+P-1008,Walking Stick,Mobility,899.00,64,3.9
+P-1009,Glucometer Kit,Diagnostics,1099.00,0,4.4
+P-1010,First Aid Box,General,1299.00,32,4.7
+P-1011,Hot Water Bag,General,299.00,88,3.8
+P-1012,Oxygen Concentrator,Respiratory,38999.00,2,4.8

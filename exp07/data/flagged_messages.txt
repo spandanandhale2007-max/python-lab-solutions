@@ -1,0 +1,6 @@
+id	verdict	score	sender	reasons
+MSG-002	SPAM	9	winner27381@mailinator.com	disposable mail provider; many digits in the local part; winner; lottery; click here; prize; multiple exclamation marks
+MSG-005	SPAM	6	crypto.doubler@gains.top	suspicious TLD .top; double your; act now; limited offer
+MSG-007	SPAM	9	security-alert@mediverse-in.xyz	suspicious TLD .xyz; look-alike domain impersonating a brand; urgent; verify your account; bank details
+MSG-008	SPAM	7	a9f83kd92jdk19dkq@throwaway.email	disposable mail provider; machine-generated local part; many digits in the local part; free money
+MSG-011	SUSPECT	4	no-reply@ransom.note.invalid	suspicious TLD .invalid; wire transfer

@@ -1,0 +1,2 @@
+2026-11-24 00:00:12 INFO  nginx started, listening on :443
+2026-11-24 00:04:51 INFO  GET /api/beds 200 in 42ms

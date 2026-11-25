@@ -1,0 +1,13 @@
+Spandan Andhale
+Pune, Maharashtra | +91 90112 23344 | spandan.andhale@example.com
+linkedin.com/in/spandan-andhale | github.com/spandanandhale2007-max
+
+EDUCATION
+MIT World Peace University, Pune - B.Tech Computer Science, 2024-2028
+CGPA: 8.74
+
+Skills: Python, JavaScript, React, Vite, Supabase, Git, SQL
+
+PROJECTS
+MediVerse - hospital services portal with bed availability and appointments.
+Built with React and Python, deployed on Netlify.

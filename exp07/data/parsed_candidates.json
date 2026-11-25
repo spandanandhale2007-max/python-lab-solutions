@@ -1,0 +1,91 @@
+[
+  {
+    "file": "aman_kulkarni.txt",
+    "name": "Aman Kulkarni",
+    "emails": [
+      "aman_k99@sub.domain.co.in"
+    ],
+    "primary_email": "aman_k99@sub.domain.co.in",
+    "phones": [],
+    "linkedin": [],
+    "github": [
+      "github.com/amank99"
+    ],
+    "cgpa": 7.9,
+    "skills": [
+      "Go",
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "PostgreSQL"
+    ],
+    "words": 24
+  },
+  {
+    "file": "no_contact.txt",
+    "name": "Kiran Rao\nPune",
+    "emails": [],
+    "primary_email": null,
+    "phones": [],
+    "linkedin": [],
+    "github": [],
+    "cgpa": null,
+    "skills": [
+      "R",
+      "Excel",
+      "SPSS"
+    ],
+    "words": 20
+  },
+  {
+    "file": "riya_sharma.txt",
+    "name": "Riya Sharma",
+    "emails": [
+      "riya93@mitwpu.edu.in",
+      "riya.sharma.design@gmail.com"
+    ],
+    "primary_email": "riya93@mitwpu.edu.in",
+    "phones": [
+      "98765 43210"
+    ],
+    "linkedin": [],
+    "github": [],
+    "cgpa": 9.1,
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "HTML",
+      "CSS",
+      "Framer Motion"
+    ],
+    "words": 28
+  },
+  {
+    "file": "spandan_andhale.txt",
+    "name": "Spandan Andhale",
+    "emails": [
+      "spandan.andhale@example.com"
+    ],
+    "primary_email": "spandan.andhale@example.com",
+    "phones": [
+      "+91 90112 23344"
+    ],
+    "linkedin": [
+      "linkedin.com/in/spandan-andhale"
+    ],
+    "github": [
+      "github.com/spandanandhale2007-max"
+    ],
+    "cgpa": 8.74,
+    "skills": [
+      "Python",
+      "JavaScript",
+      "React",
+      "Vite",
+      "Supabase",
+      "Git",
+      "SQL"
+    ],
+    "words": 53
+  }
+]

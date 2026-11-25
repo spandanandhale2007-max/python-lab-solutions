@@ -1,0 +1,97 @@
+{
+  "generatedFor": "student portal",
+  "cutoff": 75.0,
+  "count": 10,
+  "students": [
+    {
+      "studentId": "STU-2301",
+      "name": "Spandan Andhale",
+      "grade": "SY-CSE",
+      "email": "spandan.andhale@school.edu.in",
+      "section": "A",
+      "attendancePercent": 92.5,
+      "attendanceOk": true
+    },
+    {
+      "studentId": "STU-2302",
+      "name": "Riya Sharma",
+      "grade": "SY-CSE",
+      "email": "riya.sharma@school.edu.in",
+      "section": "A",
+      "attendancePercent": 88.0,
+      "attendanceOk": true
+    },
+    {
+      "studentId": "STU-2303",
+      "name": "Aman Kulkarni",
+      "grade": "SY-CSE",
+      "email": "aman.kulkarni@school.edu.in",
+      "section": "B",
+      "attendancePercent": 74.5,
+      "attendanceOk": false
+    },
+    {
+      "studentId": "STU-2304",
+      "name": "Neha Deshmukh",
+      "grade": "TY-CSE",
+      "email": "neha.deshmukh@school.edu.in",
+      "section": "A",
+      "attendancePercent": 96.0,
+      "attendanceOk": true
+    },
+    {
+      "studentId": "STU-2305",
+      "name": "Omkar Patil",
+      "grade": "TY-CSE",
+      "email": "omkar.patil@school.edu.in",
+      "section": "B",
+      "attendancePercent": 61.5,
+      "attendanceOk": false
+    },
+    {
+      "studentId": "STU-2306",
+      "name": "Sana Shaikh",
+      "grade": "FY-CSE",
+      "email": "sana.shaikh@school.edu.in",
+      "section": "A",
+      "attendancePercent": 85.0,
+      "attendanceOk": true
+    },
+    {
+      "studentId": "STU-2307",
+      "name": "Rohit Jadhav",
+      "grade": "FY-CSE",
+      "email": "rohit.jadhav@school.edu.in",
+      "section": "B",
+      "attendancePercent": 79.0,
+      "attendanceOk": true
+    },
+    {
+      "studentId": "STU-2308",
+      "name": "Pooja Nair",
+      "grade": "SY-CSE",
+      "email": "pooja.nair@school.edu.in",
+      "section": "B",
+      "attendancePercent": 58.0,
+      "attendanceOk": false
+    },
+    {
+      "studentId": "STU-2309",
+      "name": "Kiran Rao",
+      "grade": "TY-CSE",
+      "email": "kiran.rao@school.edu.in",
+      "section": "A",
+      "attendancePercent": 90.5,
+      "attendanceOk": true
+    },
+    {
+      "studentId": "STU-2310",
+      "name": "Tanvi Gokhale",
+      "grade": "FY-CSE",
+      "email": "tanvi.gokhale@school.edu.in",
+      "section": "A",
+      "attendancePercent": 99.0,
+      "attendanceOk": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+subscribe me please -> spandan.andhale@example.com
+yes!! riya93@mitwpu.edu.in
+i want the weekly digest: aman_k99@sub.domain.co.in
+not.an.email.at.all
+@nolocalpart.com
+missing-domain@
+double@@at.com
+user@nodot
+trailing.dot@domain.
+.leading.dot@domain.com
+spaces in name@domain.com
+too@short.c
+UPPER.CASE@EXAMPLE.COM
+spandan.andhale@example.com (already above, duplicate)
+neha+newsletter@gmail.com
+sana.shaikh@zoho.in
+omkar..patil@example.com
+hello_world-123@my-domain.org
+admin@localhost
+feedback@company.co.uk
+<p>html noise</p> contact us at support@mediverse.in </p>
+tel: 020-2555-1234

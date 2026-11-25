@@ -1,0 +1,12 @@
+HEALTH|State expands free dialysis scheme to 40 more district hospitals
+TECH|Open-source hospital information system crosses 500 deployments
+HEALTH|Monsoon dengue cases drop 18 percent after ward-level surveillance
+POLICY|Draft rules would require bed-availability dashboards at every district hospital
+TECH|Researchers release an anonymised bed-occupancy dataset covering 14 months
+EDUCATION|Engineering syllabus adds a mandatory data-handling lab from next term
+HEALTH|Vaccine cold-chain audit flags 12 percent of rural units
+TECH|Low-cost IoT temperature logger passes field trial in two districts
+POLICY|Health ministry proposes a single appointment booking standard
+EDUCATION|Two universities open joint health-informatics programme
+HEALTH|Blood bank network goes live across six cities
+TECH|Hospital chatbot pilot reduces front-desk queue times by a third

@@ -1,0 +1,12 @@
+MSG-001 | spandan.andhale@example.com | Hi, the bed availability page throws an error. Can you check?
+MSG-002 | winner27381@mailinator.com | CONGRATULATIONS!! You are our lottery WINNER. Claim your prize now, click here: http://claim.win
+MSG-003 | riya93@mitwpu.edu.in | Sharing the project report for review. Deadline is Friday.
+MSG-004 | support@mediverse.in | Scheduled maintenance tonight from 1 AM to 3 AM.
+MSG-005 | crypto.doubler@gains.top | Double your money in 24 hours. Send BTC to this wallet. ACT NOW, limited offer!
+MSG-006 | aman_k99@sub.domain.co.in | Refund request for appointment APP-7781.
+MSG-007 | security-alert@mediverse-in.xyz | URGENT: verify your account or it will be closed. Reply with your bank details.
+MSG-008 | a9f83kd92jdk19dkq@throwaway.email | free money free money free money
+MSG-009 | neha.deshmukh@gmail.com | Please update my registered phone number.
+MSG-010 | hr@medsupplies.example.in | Invoice attached for the October supply order.
+MSG-011 | no-reply@ransom.note.invalid | We have your records. Wire transfer 2 BTC or we publish them.
+MSG-012 | kavita.rao@healthblog.example.org | Would you like to co-author an article on hospital data?

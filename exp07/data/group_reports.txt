@@ -1,0 +1,22 @@
+Group 1 - MediVerse: Hospital Services Portal
+1. Spandan Andhale CSE2301 spandan.andhale@mitwpu.edu.in
+2. Riya Sharma CSE2302 riya.sharma@mitwpu.edu.in
+3. Aman Kulkarni CSE2303 aman.kulkarni@mitwpu.edu.in
+Guide: Prof. S. Joshi s.joshi@mitwpu.edu.in
+
+Group 2 - Smart Attendance using Face Recognition
+1. Neha Deshmukh CSE2311 neha.deshmukh@mitwpu.edu.in
+2. Omkar Patil CSE2312 omkar.patil@mitwpu.edu.in
+3. Sana Shaikh CSE2313 sana.shaikh99@gmail.com
+Note: Sana's college mail is blocked, personal id given.
+
+Group 3 - Crop Yield Prediction
+1. Rohit Jadhav CSE2321 rohit.jadhav@mitwpu.edu.in
+2. Pooja Nair CSE2322 pooja.nair@mitwpu.edu.in
+3. Kiran Rao CSE2323 (email not submitted)
+
+Group 4 - Library Management System
+1. Tanvi Gokhale CSE2331 tanvi.gokhale@mitwpu.edu.in
+2. Harsh Mehta CSE2332 harsh.mehta@mitwpu.edu.in
+3. Spandan Andhale CSE2301 spandan.andhale@mitwpu.edu.in
+Note: Spandan contributed to two groups this semester.

@@ -1,0 +1,3 @@
+Total messages: 14
+[09:02] Spandan: good morning, is the bed availability API live?
+[09:03] Riya: yes, deployed last night on Netlify

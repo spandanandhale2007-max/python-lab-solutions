@@ -1,0 +1,13 @@
+response_id,timestamp,age_group,city,rating,recommend,comment
+R001,2026-11-18 09:14,18-24,Pune,9,yes,Bed availability page saves us phone calls
+R002,2026-11-18 10:02,25-34,Mumbai,8,yes,Useful but the data looked stale once
+R003,2026-11-18 11:40,35-44,Nashik,10,yes,Exactly what a district hospital needs
+R004,2026-11-19 08:21,18-24,Pune,6,no,Mobile layout squeezes the ward names
+R005,2026-11-19 09:55,45-54,Nagpur,7,yes,Please add a paediatric bed filter
+R006,2026-11-19 12:30,25-34,Mumbai,3,no,Showed a bed as free that was taken
+R007,2026-11-20 10:05,35-44,Pune,9,yes,Refresh is fast and colour coding is clear
+R008,2026-11-20 14:18,55+,Nashik,10,yes,Front desk answers bed queries without calling
+R009,2026-11-21 09:02,25-34,Nagpur,5,no,Fine for one hospital we need a multi view
+R010,2026-11-21 16:44,18-24,Pune,8,yes,An SMS alert on low ICU capacity would help
+R011,2026-11-22 11:11,45-54,Mumbai,2,no,Could not log in for two days
+R012,2026-11-22 13:27,35-44,Pune,9,yes,Clean interface no training needed

@@ -1,0 +1,11 @@
+2026-11-20 | coordinator@mitwpu.edu.in | Project review slot confirmed | unread,important
+2026-11-20 | riya93@mitwpu.edu.in | Re: screenshots for the deck | read
+2026-11-21 | noreply@netlify.com | Deploy succeeded for mediverse | read
+2026-11-21 | aman_k99@sub.domain.co.in | Pull request #14 ready | unread
+2026-11-22 | noreply@github.com | [MediVerse] 2 new issues opened | read
+2026-11-22 | support@supabase.io | Your project usage this month | read
+2026-11-23 | coordinator@mitwpu.edu.in | Reminder: submit by 30 November | unread,important
+2026-11-23 | spam.offers@deals.top | YOU WON a free laptop!! | spam
+2026-11-24 | neha.deshmukh@gmail.com | Can you review my pandas notebook | unread
+2026-11-24 | noreply@netlify.com | Deploy failed for mediverse | unread,important
+2026-11-25 | riya93@mitwpu.edu.in | Final deck draft attached | unread

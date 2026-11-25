@@ -1,0 +1,66 @@
+[
+  {
+    "employeeId": "EMP-1001",
+    "name": "Spandan Andhale",
+    "department": "Engineering",
+    "email": "spandan.andhale@company.in",
+    "designation": "Software Intern",
+    "joined": "2026-06-01"
+  },
+  {
+    "employeeId": "EMP-1002",
+    "name": "Riya Sharma",
+    "department": "Design",
+    "email": "riya.sharma@company.in",
+    "designation": "UX Designer",
+    "joined": "2025-07-14"
+  },
+  {
+    "employeeId": "EMP-1003",
+    "name": "Aman Kulkarni",
+    "department": "Engineering",
+    "email": "aman.kulkarni@company.in",
+    "designation": "Backend Engineer",
+    "joined": "2024-01-08"
+  },
+  {
+    "employeeId": "EMP-1004",
+    "name": "Neha Deshmukh",
+    "department": "Quality",
+    "email": "neha.deshmukh@company.in",
+    "designation": "QA Engineer",
+    "joined": "2024-09-23"
+  },
+  {
+    "employeeId": "EMP-1005",
+    "name": "Omkar Patil",
+    "department": "Engineering",
+    "email": "omkar.patil@company.in",
+    "designation": "DevOps Engineer",
+    "joined": "2023-03-15"
+  },
+  {
+    "employeeId": "EMP-1006",
+    "name": "Sana Shaikh",
+    "department": "Operations",
+    "email": "sana.shaikh@company.in",
+    "designation": "Operations Lead",
+    "joined": "2022-11-02"
+  },
+  {
+    "employeeId": "EMP-1007",
+    "name": "Kavita Rao",
+    "department": "Research",
+    "email": "kavita.rao@company.in",
+    "designation": "Principal Scientist",
+    "joined": "2021-05-19"
+  },
+  {
+    "employeeId": "EMP-1008",
+    "name": "Harsh Mehta",
+    "department": "Design",
+    "email": "harsh.mehta@company.in",
+    "designation": "Visual Designer",
+    "joined": "2025-02-10"
+  }
+]

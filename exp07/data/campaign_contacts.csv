@@ -1,0 +1,13 @@
+email,domain,times_seen,sources
+frontdesk@clinicpune.example.com,clinicpune.example.com,1,https://clinicpune.example.com/contact
+admin@clinicpune.example.com,clinicpune.example.com,2,https://clinicpune.example.com/contact;https://healthblog.example.org/post/12
+purchase@medsupplies.example.in,medsupplies.example.in,1,https://medsupplies.example.in/about
+r.mehta@medsupplies.example.in,medsupplies.example.in,1,https://medsupplies.example.in/about
+hr@medsupplies.example.in,medsupplies.example.in,1,https://medsupplies.example.in/about
+kavita.rao@healthblog.example.org,healthblog.example.org,1,https://healthblog.example.org/post/12
+editor@healthblog.example.org,healthblog.example.org,1,https://healthblog.example.org/post/12
+s.iyer@diagnostics.example.net,diagnostics.example.net,1,https://diagnostics.example.net/team
+reception@diagnostics.example.net,diagnostics.example.net,1,https://diagnostics.example.net/team
+press@diagnostics.example.net,diagnostics.example.net,1,https://diagnostics.example.net/team
+b2b@pharmachain.example.co,pharmachain.example.co,2,https://pharmachain.example.co/contact
+franchise@pharmachain.example.co,pharmachain.example.co,1,https://pharmachain.example.co/contact
